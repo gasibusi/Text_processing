@@ -1,0 +1,17 @@
+colors
+green
+blue
+red
+white
+pink
+orange
+black
+brown
+grey
+ivory
+gold
+silver
+metalic
+metallic
+purple
+yellow
