@@ -1,6 +1,0 @@
-import pandas as pd
-
-
-data = pd.read_csv('TEXT-Dresses-All-Products.txt',sep="|")
-
-colours = 
